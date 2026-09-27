@@ -1,4 +1,4 @@
-# # Team Availability Tracker
+# Team Availability Tracker
 
 ## Overview
 This project is a Flask-based dashboard application that tracks team member availability using toggle buttons and SQLite database updates.
